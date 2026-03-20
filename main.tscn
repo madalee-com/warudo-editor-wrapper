@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cdfq78q7q1j7t"]
+
+[ext_resource type="Script" uid="uid://7qnekbnpaydg" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Control" type="Control" unique_id=1508091563]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ig7tw")
+
+[connection signal="ready" from="." to="." method="_on_ready"]
