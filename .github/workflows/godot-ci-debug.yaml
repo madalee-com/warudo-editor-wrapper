@@ -1,4 +1,4 @@
-name: "godot-ci export"
+name: "godot-ci-debug export"
 on:
   push:
     tags:
