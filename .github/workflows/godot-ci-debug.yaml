@@ -53,4 +53,4 @@ jobs:
           name: Debug Build ${{ github.ref_name }}
           preserve_order: true
           files: |
-            win64/warudo-client-electron.exe
+            warudo-client-electron.exe
