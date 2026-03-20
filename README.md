@@ -20,7 +20,7 @@ Quick and lazy wrapper to start the Warudo Editor with Linux Electron.
 ## Quick Start
 
 - Download/extract [Linux Electron](https://github.com/electron/electron/releases/download/v39.2.6/electron-v39.2.6-linux-x64.zip) to the `Warudo/Warudo_Data/StreamingAssets/Clients/win-x64/` path.  Let it overwrite anything it wants to.
-- [Download](https://github.com/madalee-com/warudo-editor-wrapper/releases) and extract the latest release of Warudo Editor Wrapper to the same path, and let it overwrite `warudo-client-electron.exe`
+- [Download](https://github.com/madalee-com/warudo-editor-wrapper/releases) the latest release of Warudo Editor Wrapper to the same path, and let it overwrite `warudo-client-electron.exe`
 - When pressing Esc in Warudo, the native Linux version of the editor should load.
 
 ## Some Notes
